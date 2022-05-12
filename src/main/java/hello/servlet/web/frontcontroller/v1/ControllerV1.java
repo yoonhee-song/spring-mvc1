@@ -8,8 +8,4 @@ import java.io.IOException;
 public interface ControllerV1 {
 
     void process(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException;
-<<<<<<< HEAD
-
-=======
->>>>>>> cfbed461ef1da54b8f0884a17bac1b44bc6b7378
 }
